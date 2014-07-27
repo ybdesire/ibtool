@@ -1,4 +1,6 @@
-ibtool
-======
+winibtool
+=========
 
-shortcuts of ibtool written by python, so it can runs at cross platforms.
+Mac tool ibtool for windows platform
+Written by Python(2.7.6)
+
