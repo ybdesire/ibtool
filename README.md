@@ -2,7 +2,7 @@ ibtool
 =========
 
 Mac tool ibtool for windows platform
-Written by Python(2.7.6)
+Written by Python(3.1.4)
 
 ##### 1. *.xib to *.strings
 ```
